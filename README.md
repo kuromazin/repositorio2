@@ -35,4 +35,4 @@ weqwelqwoeqqqqqqqqqweqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
     <body>
 </html>
 ```
-[link](https://www.fje.edu/ca/jesuites-bellvitge ¨Enlace a la web del cole¨)
+[link](www.fje.edu/ca/jesuites-bellvitge ¨Enlace a la web del cole¨)
