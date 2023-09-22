@@ -10,4 +10,3 @@ Estilos se pueden *__anidar__*
 Listas Ordenadas 
 1. Primer elemento de la lista
 2. Segundo elemento de la lista
--Segundo repositoris de SMX2 2324
