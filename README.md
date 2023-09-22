@@ -12,8 +12,8 @@ Listas Ordenadas
 2. Segundo elemento de la lista
 
 Listas desordenadas
-· Primer elemento
-· Segundo elemento
+* Primer elemento
+* Segundo elemento
 - Tercer elemento
 - Cuarto elemento
     1. Primer subelemento
