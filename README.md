@@ -26,7 +26,7 @@ Esto es un parrafo sswlajmdnwqkeqkweqkwqekqkewqkwekqweklqlkwekqwekqkweqlkwekqwek
 
 weqwelqwoeqqqqqqqqqweqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq.
 
-``
+```
 <html>
     <head>
     <head>
@@ -34,5 +34,5 @@ weqwelqwoeqqqqqqqqqweqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
         <p> Esto es un codigo en HTML </p>
     <body>
 </html>
-``
+```
 [link](https://www.fje.edu/ca/jesuites-bellvitge ''Enlace a la web del cole'')
