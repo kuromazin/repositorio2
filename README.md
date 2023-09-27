@@ -37,3 +37,8 @@ weqwelqwoeqqqqqqqqqweqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 ```
 [link](www.fje.edu/ca/jesuites-bellvitge "Enlace a la web del cole")
 ![Imagen de Carmen de Mairena](https://github.com/kuromazin/repositorio2/blob/main/Carmen_de_mairena.jpg "Hermosa")
+
+|Titulo |Alineacion | Precios|
+|----------|:----------:|----------:|
+|Col 2 es|centrada|500€|
+|Col 3 es|Derecha|1500€|
